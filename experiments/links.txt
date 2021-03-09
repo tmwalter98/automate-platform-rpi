@@ -1,0 +1,3 @@
+https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e
+https://projects.raspberrypi.org/en/projects/packaging-your-code/1
+https://stackoverflow.com/questions/1977362/how-to-create-module-wide-variables-in-python
